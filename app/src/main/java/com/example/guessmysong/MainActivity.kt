@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             GuessMySongTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(color = MaterialTheme.colors.background) {
-                    Greeting("Hej3 Android")
+                    Greeting("Hej4 Android")
                 }
             }
         }
